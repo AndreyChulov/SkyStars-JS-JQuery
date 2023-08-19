@@ -1,0 +1,14 @@
+#TableRoot table{
+}
+#TableRoot table tr td {
+    width: 20px;
+    height: 20px;
+    #border-style: dashed;
+    #border-color: brown;
+    #border-width: 2px;
+}
+
+#TableRoot table tr td img {
+    width: 100%;
+    height: 100%;
+}
